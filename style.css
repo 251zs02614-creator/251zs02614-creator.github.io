@@ -75,3 +75,11 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+/* --------------------
+        画像
+-------------------- */
+
+html, img {
+  width: 200px
+}
